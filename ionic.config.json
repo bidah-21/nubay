@@ -1,0 +1,7 @@
+{
+  "name": "darmahenwa",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
